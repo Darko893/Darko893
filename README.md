@@ -3,7 +3,7 @@
 Free calculators and print-at-home planners for everyday UK jobs. No sign-up, and what you type stays in your browser.
 
 **Free tools**
-- [PIP points calculator (2026/27)](https://darko893.github.io/pip-points/): go through the 12 activities and see your daily living and mobility points
+- [Daily living and mobility points calculator (2026/27)](https://darko893.github.io/pip-points/): go through the 12 activities from the official descriptors and see your points
 - [Carer's Allowance earnings calculator](https://darko893.github.io/carers-allowance-earnings/): your pay counted the way the DWP counts it, against the £204 a week limit
 - [Tax week calculator](https://darko893.github.io/tax-week/): what tax week and tax month it is today, for payslips and P45s
 - [CIS invoice maker](https://darko893.github.io/cis-invoice/): labour, materials, CIS deduction and reverse charge VAT on one invoice
